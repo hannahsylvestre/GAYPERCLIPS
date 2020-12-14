@@ -1,0 +1,38 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 225.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e33d41;
+      }
+
+      .cls-2 {
+        fill: #f38120;
+      }
+
+      .cls-3 {
+        fill: #f8ac1f;
+      }
+
+      .cls-4 {
+        fill: #67bc4c;
+      }
+
+      .cls-5 {
+        fill: #2199d5;
+      }
+
+      .cls-6 {
+        fill: #764396;
+      }
+    </style>
+  </defs>
+  <title>RAINBOW2</title>
+  <g>
+    <rect class="cls-1" width="600" height="37.64"/>
+    <rect class="cls-2" y="37.64" width="600" height="37.64"/>
+    <rect class="cls-3" y="75.28" width="600" height="37.64"/>
+    <rect class="cls-4" y="112.92" width="600" height="37.64"/>
+    <rect class="cls-5" y="150.56" width="600" height="37.64"/>
+    <rect class="cls-6" y="188.19" width="600" height="37.64"/>
+  </g>
+</svg>
